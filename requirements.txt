@@ -1,9 +1,0 @@
-streamlit
-pdf2image
-python-docx
-pytesseract
-easyocr
-opencv-python-headless
-pillow
-pdfplumber
-numpy
