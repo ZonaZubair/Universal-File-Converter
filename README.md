@@ -25,7 +25,7 @@ Python, Streamlit, PyPDF2, python-docx, pytesseract, Pillow, pypandoc
 
 ## 🚀 How to Run
 1. Clone the repository:  
-git clone https://github.com/YourUsername/Universal-File-Converter.git
+git clone (https://github.com/ZonaZubair/Universal-File-Converter.git)
 
 ---
 
