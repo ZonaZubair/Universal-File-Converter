@@ -29,10 +29,12 @@ git clone https://github.com/YourUsername/Universal-File-Converter.git
 
 ---
 
-**Install dependencies**
+**## Install dependencies**
+
 pip install -r requirements.txt
 
 ---
 
-**Run the app**
+**## Run the app**
+
 streamlit run app.py
