@@ -29,16 +29,14 @@ streamlit run [app.py](http://app.py)
 
 <table>
   <tr>
-    <td align="center">
-      <img src="screenshots/upload.png" width="400"/>
-      <br/>
-    </td>
-    <b> 📂 File Upload and Conversion Options </b>
-    <td align="center">
-      <img src="screenshots/conversion.png" width="400"/>
-      <br/>
-    </td>
-  </tr>
+  <td align="center" colspan="2">
+    <img src="screenshots/upload.png" width="400"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="screenshots/ocr.png" width="400"/>
+    <br/>
+    <b>📂 File Upload and Conversion Options &nbsp;|&nbsp; 🔍 OCR Text Extraction from Image</b>
+  </td>
+</tr>
   <tr>
     <td align="center">
       <img src="screenshots/ocr.png" width="400"/>
