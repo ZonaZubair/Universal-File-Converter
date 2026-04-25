@@ -31,9 +31,12 @@ streamlit run [app.py](http://app.py)
   <tr>
     <td align="center">
       <img src="screenshots/upload.png" width="400"/>
-      <img src="screenshots/conversion.png" width="400"/>
       <br/>
       <b>📂 File Upload and Conversion Options</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/conversion.png" width="400"/>
+      <br/>
     </td>
     <td align="center">
       <img src="screenshots/ocr.png" width="400"/>
