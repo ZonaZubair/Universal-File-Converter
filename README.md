@@ -38,14 +38,14 @@ streamlit run [app.py](http://app.py)
       <img src="screenshots/conversion.png" width="400"/>
       <br/>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="screenshots/ocr.png" width="400"/>
       <br/>
       <b>🔍 OCR Text Extraction from Image</b>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img src="screenshots/download.png" width="400"/>
       <br/>
       <b>⬇️ Converted File Ready for Download</b>
