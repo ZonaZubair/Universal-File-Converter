@@ -29,16 +29,20 @@ streamlit run [app.py](http://app.py)
 
 <table>
   <tr>
-    <td align="center">
-      <img src="screenshots/upload.png" width="400"/>
-      <br/>
-    </td>
-    <td align="center">
-      <img src="screenshots/conversion.png" width="400"/>
-      <br/>
-      <b>📂 File Upload and Conversion Options</b>
-    </td>
-  </tr>
+  <td align="center">
+    <img src="screenshots/upload.png" width="400"/>
+    <br/>
+  </td>
+  <td align="center">
+    <img src="screenshots/conversion.png" width="400"/>
+    <br/>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <b>📂 File Upload and Conversion Options</b>
+  </td>
+</tr>
   <tr>
     <td align="center">
       <img src="screenshots/ocr.png" width="400"/>
