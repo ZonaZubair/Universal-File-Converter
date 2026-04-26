@@ -25,3 +25,26 @@ pip install -r requirements.txt
 ## Run the app
 streamlit run [app.py](http://app.py)
 ---
+## 🖼️ UI Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/upload.png" width="400"/>
+      <br/>
+      <b>📂 File Upload and Conversion Options</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/ocr.png" width="400"/>
+      <br/>
+      <b>🔍 OCR Text Extraction from Image or Scanned PDF</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="screenshots/download.png" width="400"/>
+      <br/>
+      <b>⬇️ Converted File Ready for Download</b>
+    </td>
+  </tr>
+</table>
