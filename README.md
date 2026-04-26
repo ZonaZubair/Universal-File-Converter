@@ -32,15 +32,19 @@ streamlit run [app.py](http://app.py)
     <td align="center">
       <img src="screenshots/upload.png" width="400"/>
       <br/>
+    </td>
+    <td align="center">
+      <img src="screenshots/conversion.png" width="400"/>
+      <br/>
       <b>📂 File Upload and Conversion Options</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="screenshots/ocr.png" width="400"/>
       <br/>
       <b>🔍 OCR Text Extraction from Image or Scanned PDF</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" >
       <img src="screenshots/download.png" width="400"/>
       <br/>
