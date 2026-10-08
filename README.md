@@ -12,7 +12,7 @@ It provides **batch automation, progress tracking**, and **secure file handling*
 - **Secure file handling** with clean temporary storage
 - **Image preprocessing** using OpenCV for improved OCR accuracy
 ---
-## 🛠 Technologies Used
+## Technologies Used
 Python, Streamlit, pdfplumber, pdf2image, python-docx, Tesseract OCR, EasyOCR, OpenCV, Pillow
 ---
 ## How to Run
