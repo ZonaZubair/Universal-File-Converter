@@ -27,21 +27,26 @@ Python, Streamlit, pdfplumber, pdf2image, python-docx, Tesseract OCR, EasyOCR, O
 
 ## How to Run
 
-1. Clone the repository:  
-git clone (https://github.com/ZonaZubair/Universal-File-Converter.git)
+1. **Clone the repository:**  
 
----
+    git clone (https://github.com/ZonaZubair/Universal-File-Converter.git)
 
-## Install dependencies
+2. **Create and activate a virtual environment:**
 
-pip install -r requirements.txt
+    python -m venv venv
 
----
+3. **Windows:**
 
-## Run the app
+    venv\Scripts\activate
 
-streamlit run [app.py](http://app.py)
+4. **Install dependencies**
 
+    pip install -r requirements.txt
+
+5. **Launch the Streamlit app:**
+
+    streamlit run app.py
+   
 ---
 
 ## UI Screenshots
