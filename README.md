@@ -1,5 +1,4 @@
 # Universal File Converter
-
 A **Streamlit-based application** that enables seamless conversion between Word, PDF, TXT, and image formats with **OCR support**.  
 It provides **batch automation, progress tracking**, and **secure file handling** for efficient document processing.
 
@@ -20,13 +19,11 @@ It provides **batch automation, progress tracking**, and **secure file handling*
 ---
 
 ## Technologies Used
-
 Python, Streamlit, pdfplumber, pdf2image, python-docx, Tesseract OCR, EasyOCR, OpenCV, Pillow
 
 ---
 
 ## How to Run
-
 1. **Clone the repository:**  
 
     git clone (https://github.com/ZonaZubair/Universal-File-Converter.git)
@@ -50,7 +47,6 @@ Python, Streamlit, pdfplumber, pdf2image, python-docx, Tesseract OCR, EasyOCR, O
 ---
 
 ## UI Screenshots
-
 <table>
   <tr>
   <td align="center">
